@@ -1,8 +1,5 @@
 # Hello, I'm xuguojing! 👋
 
-<img align="right" src="https://via.placeholder.com/150" alt="Illustration of Xuguojing">
-
-
 ## 👨‍💻 About Me
 I'm a passionate Front-End Developer from [beijing]. I specialize in creating interactive experiences and functional interfaces using modern web technologies.
 
@@ -21,6 +18,8 @@ I'm a passionate Front-End Developer from [beijing]. I specialize in creating in
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+<code><img src="https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript"/></code><code><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript"/></code><code><img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=python"/></code>
 
 ## 📈 My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuguojing-xgj)](https://github.com/anuraghazra/github-readme-stats)
