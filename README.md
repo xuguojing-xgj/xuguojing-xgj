@@ -17,3 +17,8 @@ I'm a passionate Front-End Developer from [beijing]. I specialize in creating in
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+## 📈 My GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuguojing-xgj&layout=compact&theme=react" alt="Top Langs">
+</p>
