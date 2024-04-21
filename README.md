@@ -1,5 +1,8 @@
 # Hello, I'm xuguojing! 👋
 
+<img align="right" src="https://via.placeholder.com/150" alt="Illustration of Xuguojing">
+
+
 ## 👨‍💻 About Me
 I'm a passionate Front-End Developer from [beijing]. I specialize in creating interactive experiences and functional interfaces using modern web technologies.
 
