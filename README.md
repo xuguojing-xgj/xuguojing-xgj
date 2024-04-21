@@ -1,30 +1,13 @@
 # Hello, I'm Xuguojing! 👋
 
-<table>
-  <tr>
-    <!-- About Me Column -->
-    <td valign="top" width="50%">
-
 ## 👨‍💻 About Me
-
 I'm a passionate developer who loves coding and open source.
 
 - 🌱 I’m currently learning everything about Frontend and Backend technologies 😅
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
-    </td>
-    <!-- GitHub Stats Column -->
-    <td valign="top" width="50%">
-
-## 📈 My GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuguojing-xgj&layout=compact&theme=react" alt="Top Langs">
-    </td>
-  </tr>
-</table>
-
 ## 🚀 Languages and Tools:
-
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
@@ -34,3 +17,6 @@ I'm a passionate developer who loves coding and open source.
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" />
 </p>
+
+## 📈 My GitHub Stats
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuguojing-xgj&layout=compact&theme=react" alt="Top Langs">
