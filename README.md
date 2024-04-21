@@ -1,4 +1,4 @@
-# Hello, I'm [xuguojing]! 👋
+# Hello, I'm xuguojing! 👋
 
 ## 👨‍💻 About Me
 I'm a passionate Front-End Developer from [beijing]. I specialize in creating interactive experiences and functional interfaces using modern web technologies.
@@ -6,7 +6,6 @@ I'm a passionate Front-End Developer from [beijing]. I specialize in creating in
 - 🌱 I’m currently learning **React Native** and **TypeScript**.
 - 👯 I’m looking to collaborate on **Open Source projects** and **innovative web applications**.
 - 💬 Ask me about **JavaScript**, **Vue.js**, **React**, and **CSS**.
-<!-- - 📫 How to reach me: `[your-email@example.com](mailto:your-email@example.com)` -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play chess and explore new tech trends.
 
@@ -22,11 +21,6 @@ I'm a passionate Front-End Developer from [beijing]. I specialize in creating in
 
 ## 📈 My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuguojing-xgj)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&link=https://twitter.com/your-twitter/)](https://twitter.com/your-twitter/)
-
 
 <!--
 **xuguojing-xgj/xuguojing-xgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
