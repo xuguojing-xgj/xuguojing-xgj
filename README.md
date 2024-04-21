@@ -18,5 +18,5 @@ I'm a passionate developer who loves coding and open source.
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" />
 </p>
 
-## 📈 My GitHub Stats
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuguojing-xgj&layout=compact&theme=react" alt="Top Langs">
+<!-- ## 📈 My GitHub Stats
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuguojing-xgj&layout=compact&theme=react" alt="Top Langs"> -->
